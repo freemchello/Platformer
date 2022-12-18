@@ -1,0 +1,3852 @@
+fileFormatVersion: 2
+guid: 6205326f9b635f74fb6a61c6dbad49e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2419445763632789493
+    second: battletoads_0
+  - first:
+      213: -3872831889909915163
+    second: battletoads_1
+  - first:
+      213: -1032688751595505922
+    second: battletoads_2
+  - first:
+      213: 1946488176830880503
+    second: battletoads_3
+  - first:
+      213: 2348258654750852006
+    second: battletoads_4
+  - first:
+      213: -6662408745425609083
+    second: battletoads_5
+  - first:
+      213: -3934398168757392803
+    second: battletoads_6
+  - first:
+      213: 3770723883489561748
+    second: battletoads_7
+  - first:
+      213: 3820705275925662715
+    second: battletoads_8
+  - first:
+      213: 6319445690615109980
+    second: battletoads_9
+  - first:
+      213: -3016597801435396129
+    second: battletoads_10
+  - first:
+      213: 7753399206019573993
+    second: battletoads_11
+  - first:
+      213: 6129141500764911240
+    second: battletoads_12
+  - first:
+      213: 8599138480502792636
+    second: battletoads_13
+  - first:
+      213: -95163472145038664
+    second: battletoads_14
+  - first:
+      213: 4244037651467491890
+    second: battletoads_15
+  - first:
+      213: -1838583824524615836
+    second: battletoads_16
+  - first:
+      213: -7843435473827187066
+    second: battletoads_17
+  - first:
+      213: 7583069271507979204
+    second: battletoads_18
+  - first:
+      213: -849030370323247689
+    second: battletoads_19
+  - first:
+      213: 6254976111881906876
+    second: battletoads_20
+  - first:
+      213: -4406802708121857934
+    second: battletoads_21
+  - first:
+      213: -7856115600024253667
+    second: battletoads_22
+  - first:
+      213: 6803114925531660646
+    second: battletoads_23
+  - first:
+      213: -8194115156945029810
+    second: battletoads_24
+  - first:
+      213: -4365693933067741589
+    second: battletoads_25
+  - first:
+      213: 5118694398756728078
+    second: battletoads_26
+  - first:
+      213: -2123171343331042533
+    second: battletoads_27
+  - first:
+      213: 2203625845416473968
+    second: battletoads_28
+  - first:
+      213: 7547380606128449202
+    second: battletoads_29
+  - first:
+      213: 2160334446668632680
+    second: battletoads_30
+  - first:
+      213: 7305469410547832034
+    second: battletoads_31
+  - first:
+      213: -280129994468644524
+    second: battletoads_32
+  - first:
+      213: -3675563849861566089
+    second: battletoads_34
+  - first:
+      213: -7357321603980973702
+    second: battletoads_35
+  - first:
+      213: -5350536003606019990
+    second: battletoads_36
+  - first:
+      213: 8468289987491517068
+    second: battletoads_37
+  - first:
+      213: 3929927270366009633
+    second: battletoads_38
+  - first:
+      213: 4028539579273571066
+    second: battletoads_39
+  - first:
+      213: 3788497667351776769
+    second: battletoads_40
+  - first:
+      213: 8665058599706462047
+    second: battletoads_41
+  - first:
+      213: 1649437603666050396
+    second: battletoads_42
+  - first:
+      213: 2219315409960798419
+    second: battletoads_43
+  - first:
+      213: 7879949432740012068
+    second: battletoads_44
+  - first:
+      213: -7538685483308641492
+    second: battletoads_45
+  - first:
+      213: 29194691902355583
+    second: battletoads_46
+  - first:
+      213: 7807259765666827613
+    second: battletoads_47
+  - first:
+      213: -1978995158014241459
+    second: battletoads_48
+  - first:
+      213: 1772945500855597332
+    second: battletoads_49
+  - first:
+      213: -4078001494851333765
+    second: battletoads_50
+  - first:
+      213: 8137795791334990612
+    second: battletoads_51
+  - first:
+      213: 2189324452977466909
+    second: battletoads_52
+  - first:
+      213: 8927946964994673779
+    second: battletoads_53
+  - first:
+      213: -2342249803029547540
+    second: battletoads_54
+  - first:
+      213: 95021449462412270
+    second: battletoads_55
+  - first:
+      213: -6297015511730415671
+    second: battletoads_56
+  - first:
+      213: 582180588135111343
+    second: battletoads_57
+  - first:
+      213: -8749235268277138406
+    second: battletoads_58
+  - first:
+      213: 4316601730547548179
+    second: battletoads_59
+  - first:
+      213: -5579708593787993194
+    second: battletoads_60
+  - first:
+      213: -3237442505787161746
+    second: battletoads_61
+  - first:
+      213: 9188262991016257707
+    second: battletoads_62
+  - first:
+      213: -8320113678620613691
+    second: battletoads_63
+  - first:
+      213: 1704698559449703491
+    second: battletoads_64
+  - first:
+      213: -8660856454248453967
+    second: battletoads_65
+  - first:
+      213: 3457650590008689836
+    second: battletoads_66
+  - first:
+      213: 8885751080342939095
+    second: battletoads_67
+  - first:
+      213: 7820439798074603635
+    second: battletoads_68
+  - first:
+      213: 2606272885378128466
+    second: battletoads_69
+  - first:
+      213: -1145758705269381054
+    second: battletoads_70
+  - first:
+      213: 6449316875682249244
+    second: battletoads_71
+  - first:
+      213: 8063060074308400252
+    second: battletoads_72
+  - first:
+      213: -1567527286337387279
+    second: battletoads_73
+  - first:
+      213: -3556707405183772162
+    second: battletoads_74
+  - first:
+      213: -5815522302556644305
+    second: battletoads_75
+  - first:
+      213: -7373353599293752416
+    second: battletoads_76
+  - first:
+      213: -7191968850633843394
+    second: battletoads_77
+  - first:
+      213: -267457692615715328
+    second: battletoads_78
+  - first:
+      213: -6857004169951282997
+    second: battletoads_79
+  - first:
+      213: 553324339614906133
+    second: battletoads_80
+  - first:
+      213: -7550289563537274898
+    second: battletoads_81
+  - first:
+      213: -3250393457610075242
+    second: battletoads_82
+  - first:
+      213: -143745359234483536
+    second: battletoads_83
+  - first:
+      213: -5728745711531643777
+    second: battletoads_84
+  - first:
+      213: -4956504235580711947
+    second: battletoads_85
+  - first:
+      213: 6220342999895958982
+    second: battletoads_86
+  - first:
+      213: 9060375423812588438
+    second: battletoads_87
+  - first:
+      213: -3577842079243612564
+    second: battletoads_88
+  - first:
+      213: -6001836425935312308
+    second: battletoads_89
+  - first:
+      213: 5216763058089523901
+    second: battletoads_90
+  - first:
+      213: -8746913291877997499
+    second: battletoads_91
+  - first:
+      213: -7186409020371001160
+    second: battletoads_92
+  - first:
+      213: 3573070152867799905
+    second: battletoads_93
+  - first:
+      213: 618692001162602101
+    second: battletoads_94
+  - first:
+      213: 4657659551883665669
+    second: battletoads_95
+  - first:
+      213: -4996890872409033141
+    second: battletoads_96
+  - first:
+      213: -2132224726330758206
+    second: battletoads_97
+  - first:
+      213: -4738774254488149724
+    second: battletoads_98
+  - first:
+      213: -3507671605748512770
+    second: battletoads_99
+  - first:
+      213: 2508557626701783537
+    second: battletoads_100
+  - first:
+      213: 7685481307174860553
+    second: battletoads_101
+  - first:
+      213: 4753132918380764056
+    second: battletoads_102
+  - first:
+      213: 8735794938217696624
+    second: battletoads_103
+  - first:
+      213: -5222565446385652828
+    second: battletoads_104
+  - first:
+      213: -3714254121281354519
+    second: battletoads_105
+  - first:
+      213: -7080421384813578823
+    second: battletoads_106
+  - first:
+      213: -3954959015215085178
+    second: battletoads_107
+  - first:
+      213: -7143302951636432823
+    second: battletoads_108
+  - first:
+      213: -9017755892891316373
+    second: battletoads_109
+  - first:
+      213: 886052115608304499
+    second: battletoads_110
+  - first:
+      213: -468209347853871746
+    second: battletoads_111
+  - first:
+      213: -6287428497427511879
+    second: battletoads_112
+  - first:
+      213: 266350317159242167
+    second: battletoads_113
+  - first:
+      213: 1998603693443036792
+    second: battletoads_114
+  - first:
+      213: -3310207063506928003
+    second: battletoads_115
+  - first:
+      213: 4545034260354189558
+    second: battletoads_116
+  - first:
+      213: -7994403500369683104
+    second: battletoads_117
+  - first:
+      213: 3415137041043517696
+    second: battletoads_118
+  - first:
+      213: -5954586109581366473
+    second: battletoads_119
+  - first:
+      213: 1524048065784747012
+    second: battletoads_120
+  - first:
+      213: 1614093420711521626
+    second: battletoads_121
+  - first:
+      213: -6493405644389726814
+    second: battletoads_122
+  - first:
+      213: -892615052278415978
+    second: battletoads_123
+  - first:
+      213: 1873703061182863927
+    second: battletoads_124
+  - first:
+      213: 4422293778106497876
+    second: battletoads_125
+  - first:
+      213: 7600429084925086382
+    second: battletoads_126
+  - first:
+      213: 1476854128857577185
+    second: battletoads_127
+  - first:
+      213: 7216757461128843662
+    second: battletoads_128
+  - first:
+      213: 6103088658347726455
+    second: battletoads_129
+  - first:
+      213: -4176957759937563061
+    second: battletoads_130
+  - first:
+      213: -3142440327501304875
+    second: battletoads_131
+  - first:
+      213: -7304801595251763319
+    second: battletoads_132
+  - first:
+      213: 183271978895804022
+    second: battletoads_133
+  - first:
+      213: 1604331653754086820
+    second: battletoads_134
+  - first:
+      213: -3772679941111671279
+    second: battletoads_135
+  - first:
+      213: -3959452447522848620
+    second: battletoads_136
+  - first:
+      213: -180471581438782425
+    second: battletoads_137
+  - first:
+      213: 1596960659901933570
+    second: battletoads_138
+  - first:
+      213: -5858909081889157775
+    second: battletoads_139
+  - first:
+      213: 3590490339695757585
+    second: battletoads_140
+  - first:
+      213: 8363332478258556283
+    second: battletoads_141
+  - first:
+      213: 8977025528755020189
+    second: battletoads_142
+  - first:
+      213: -25008250915693716
+    second: battletoads_143
+  - first:
+      213: -2008504449154397259
+    second: battletoads_144
+  - first:
+      213: 7069905896450917090
+    second: battletoads_145
+  - first:
+      213: -1975357935081079560
+    second: battletoads_146
+  - first:
+      213: -8197153692445294033
+    second: battletoads_147
+  - first:
+      213: 8561178096383735627
+    second: battletoads_148
+  - first:
+      213: -5350204010266238569
+    second: battletoads_149
+  - first:
+      213: -5699869680658653863
+    second: battletoads_150
+  - first:
+      213: -4051493416253805308
+    second: battletoads_151
+  - first:
+      213: -5075196200983477673
+    second: battletoads_152
+  - first:
+      213: 5033984342919865614
+    second: battletoads_153
+  - first:
+      213: 7969602906491089721
+    second: battletoads_154
+  - first:
+      213: 4178169531456960368
+    second: battletoads_155
+  - first:
+      213: -8949238012724209143
+    second: battletoads_156
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 5
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: battletoads_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 418
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08085195e66c6ed0800000000000000
+      internalID: -2419445763632789493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 418
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e16d1f4aefe04ac0800000000000000
+      internalID: -3872831889909915163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 419
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6bb954d072ba1f0800000000000000
+      internalID: -1032688751595505922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 419
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa90831fa0530b10800000000000000
+      internalID: 1946488176830880503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 420
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3492d0ec0b69020800000000000000
+      internalID: 2348258654750852006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_5
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 420
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e53748b8e5a83a0800000000000000
+      internalID: -6662408745425609083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_6
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 419
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aa44af5b53669c0800000000000000
+      internalID: -3934398168757392803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_7
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 418
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c0a75d46d445430800000000000000
+      internalID: 3770723883489561748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_8
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 419
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb820b943fd50530800000000000000
+      internalID: 3820705275925662715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 419
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c599c7eaf5e23b750800000000000000
+      internalID: 6319445690615109980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_10
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 420
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7083f3844e226d0800000000000000
+      internalID: -3016597801435396129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 422
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8a794af7b999b60800000000000000
+      internalID: 7753399206019573993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 418
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886723ba8b51f0550800000000000000
+      internalID: 6129141500764911240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_13
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 418
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1e2c843e6465770800000000000000
+      internalID: 8599138480502792636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 417
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2c3378359edaef0800000000000000
+      internalID: -95163472145038664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_15
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 415
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a5a1512c9d5ea30800000000000000
+      internalID: 4244037651467491890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_16
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 418
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f5e69b0c90c76e0800000000000000
+      internalID: -1838583824524615836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_17
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 416
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68635db2ef4862390800000000000000
+      internalID: -7843435473827187066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_18
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 416
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbc96b53597c3960800000000000000
+      internalID: 7583069271507979204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_19
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 436
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd4d556063a734f0800000000000000
+      internalID: -849030370323247689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_20
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 425
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba664b22a32ec650800000000000000
+      internalID: 6254976111881906876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_21
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 423
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270da230944e7d2c0800000000000000
+      internalID: -4406802708121857934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_22
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 423
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b462a3c7879f290800000000000000
+      internalID: -7856115600024253667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_23
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 425
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6610976faf4896e50800000000000000
+      internalID: 6803114925531660646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_24
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 423
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45b5a5dda7a84e80800000000000000
+      internalID: -8194115156945029810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_25
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 412
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b665b619f70f963c0800000000000000
+      internalID: -4365693933067741589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_26
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 414
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d2da78f61490740800000000000000
+      internalID: 5118694398756728078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_27
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1bd67b89eaf882e0800000000000000
+      internalID: -2123171343331042533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_28
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 414
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0753be5f70ad49e10800000000000000
+      internalID: 2203625845416473968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_29
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 414
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b665fc6caeadb860800000000000000
+      internalID: 7547380606128449202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_30
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 351
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86259b9bbbc0bfd10800000000000000
+      internalID: 2160334446668632680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 354
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e49f2d09bd326560800000000000000
+      internalID: 7305469410547832034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_32
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 354
+        width: 52
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459a3c41147cc1cf0800000000000000
+      internalID: -280129994468644524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_34
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 353
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771fbbb0726cdfcc0800000000000000
+      internalID: -3675563849861566089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_35
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 353
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7928606bfa85e990800000000000000
+      internalID: -7357321603980973702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_36
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 353
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6000236ad31fb5b0800000000000000
+      internalID: -5350536003606019990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_37
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 350
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82dd6f60e8658570800000000000000
+      internalID: 8468289987491517068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_38
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 334
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129594fd708e98630800000000000000
+      internalID: 3929927270366009633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_39
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 334
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afae33a376f38e730800000000000000
+      internalID: 4028539579273571066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 354
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e06ee5e82739430800000000000000
+      internalID: 3788497667351776769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 355
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57827113e8704870800000000000000
+      internalID: 8665058599706462047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_42
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 355
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dbfade2caf3e610800000000000000
+      internalID: 1649437603666050396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_43
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 353
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8834f5b979cce10800000000000000
+      internalID: 2219315409960798419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_44
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 353
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 420628262443b5d60800000000000000
+      internalID: 7879949432740012068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_45
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 353
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c239efd9e75316790800000000000000
+      internalID: -7538685483308641492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_46
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 358
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78ba28ea68b76000800000000000000
+      internalID: 29194691902355583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_47
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 353
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d45c96465f85c60800000000000000
+      internalID: 7807259765666827613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 302
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45d75293623984e0800000000000000
+      internalID: -1978995158014241459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 303
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419ff902a84ca9810800000000000000
+      internalID: 1772945500855597332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71dfd12f370867c0800000000000000
+      internalID: -4078001494851333765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 306
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e03508224fe070800000000000000
+      internalID: 8137795791334990612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_52
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 303
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e5ccd8dfa026e10800000000000000
+      internalID: 2189324452977466909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 304
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cc80e567076eb70800000000000000
+      internalID: 8927946964994673779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_54
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 309
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5f133c638ae7fd0800000000000000
+      internalID: -2342249803029547540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_55
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 304
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3ff3d3185915100800000000000000
+      internalID: 95021449462412270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_56
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 303
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c71f2e41c18c98a0800000000000000
+      internalID: -6297015511730415671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_57
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 307
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faadbee0922541800800000000000000
+      internalID: 582180588135111343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_58
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 305
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c850201e8749680800000000000000
+      internalID: -8749235268277138406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_59
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 306
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3108f125766a7eb30800000000000000
+      internalID: 4316601730547548179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_60
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 307
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6938215b894e092b0800000000000000
+      internalID: -5579708593787993194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_61
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 301
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e634ec5913b4213d0800000000000000
+      internalID: -3237442505787161746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_62
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 311
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba864624284438f70800000000000000
+      internalID: 9188262991016257707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_63
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 305
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c323fee0b4098c80800000000000000
+      internalID: -8320113678620613691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_64
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 309
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344ae15de4e48a710800000000000000
+      internalID: 1704698559449703491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_65
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 261
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b82fd921f47ec780800000000000000
+      internalID: -8660856454248453967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_66
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 261
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca443e664ea0cff20800000000000000
+      internalID: 3457650590008689836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_67
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 249
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d562626787805b70800000000000000
+      internalID: 8885751080342939095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_68
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 247
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3787097df88c78c60800000000000000
+      internalID: 7820439798074603635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_69
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 260
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a12b071675b2420800000000000000
+      internalID: 2606272885378128466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_70
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 260
+        width: 40
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2486b1e27827910f0800000000000000
+      internalID: -1145758705269381054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_71
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 254
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1af8fa4783908950800000000000000
+      internalID: 6449316875682249244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_72
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 257
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7479cbea6eb5ef60800000000000000
+      internalID: 8063060074308400252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 257
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4c02afc360f3ae0800000000000000
+      internalID: -1567527286337387279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_74
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 267
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef91500957904aec0800000000000000
+      internalID: -3556707405183772162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_75
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 269
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cdfbc174d1b4fa0800000000000000
+      internalID: -5815522302556644305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_76
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 261
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab7fb697f59ca990800000000000000
+      internalID: -7373353599293752416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_77
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 266
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d9b4e5f6ef03c90800000000000000
+      internalID: -7191968850633843394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_78
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 258
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006d13745acc94cf0800000000000000
+      internalID: -267457692615715328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_79
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 255
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc87ea2990707d0a0800000000000000
+      internalID: -6857004169951282997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_80
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 258
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517f2542e8dcda700800000000000000
+      internalID: 553324339614906133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_81
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 254
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7850625abf73790800000000000000
+      internalID: -7550289563537274898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_82
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 254
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693d5e22f5844e2d0800000000000000
+      internalID: -3250393457610075242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_83
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 253
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bab7bc7b50510ef0800000000000000
+      internalID: -143745359234483536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_84
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 176
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c2d97a0286f70b0800000000000000
+      internalID: -5728745711531643777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 177
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb1e7e88a5f63bb0800000000000000
+      internalID: -4956504235580711947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_86
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 177
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c5e2e96009135650800000000000000
+      internalID: 6220342999895958982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_87
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 180
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693570ca17becbd70800000000000000
+      internalID: 9060375423812588438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_88
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 179
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e4d3cc593f85ec0800000000000000
+      internalID: -3577842079243612564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_89
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 177
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a2028d19135bca0800000000000000
+      internalID: -6001836425935312308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_90
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 185
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba7eca9c5aa56840800000000000000
+      internalID: 5216763058089523901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 187
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544287444b8bc9680800000000000000
+      internalID: -8746913291877997499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 186
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0af1a321fb44c90800000000000000
+      internalID: -7186409020371001160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_93
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 184
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1636c338f58169130800000000000000
+      internalID: 3573070152867799905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_94
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 184
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5762caad819069800800000000000000
+      internalID: 618692001162602101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_95
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 184
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5012bb26fa453a040800000000000000
+      internalID: 4657659551883665669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_96
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 200
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46faa8e93a77aab0800000000000000
+      internalID: -4996890872409033141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_97
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 208
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb20cd88e0d862e0800000000000000
+      internalID: -2132224726330758206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_98
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 180
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a7723ced7c3eb0800000000000000
+      internalID: -4738774254488149724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_99
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 190
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7c2ae424f325fc0800000000000000
+      internalID: -3507671605748512770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_100
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 189
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1282ededf20d220800000000000000
+      internalID: 2508557626701783537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_101
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 189
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907ff0a878058aa60800000000000000
+      internalID: 7685481307174860553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_102
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 183
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b1d42c43586f140800000000000000
+      internalID: 4753132918380764056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_103
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d0f1b4637cb3970800000000000000
+      internalID: 8735794938217696624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_104
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab24f79568b587b0800000000000000
+      internalID: -5222565446385652828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_105
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 127
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e48e7f3e81547cc0800000000000000
+      internalID: -3714254121281354519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_106
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 129
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b57b12a34a4dbd90800000000000000
+      internalID: -7080421384813578823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_107
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 120
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68940ecdab92d19c0800000000000000
+      internalID: -3954959015215085178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_108
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 126
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94806b4ffc3eddc90800000000000000
+      internalID: -7143302951636432823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_109
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 127
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f07052bce7ad280800000000000000
+      internalID: -9017755892891316373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_110
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 126
+        width: 39
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bf05364b3eb4c00800000000000000
+      internalID: 886052115608304499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_111
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 125
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7517ac24169089f0800000000000000
+      internalID: -468209347853871746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_112
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 124
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b54a2408119eb8a0800000000000000
+      internalID: -6287428497427511879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_113
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 125
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9d618c33442b300800000000000000
+      internalID: 266350317159242167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_114
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 124
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876b47a58777cbb10800000000000000
+      internalID: 1998603693443036792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_115
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 138
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e3ea6c638cf02d0800000000000000
+      internalID: -3310207063506928003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_116
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 139
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f844644494331f30800000000000000
+      internalID: 4545034260354189558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_117
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 138
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d53516f5c2e0190800000000000000
+      internalID: -7994403500369683104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_118
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 125
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0017dae6b01056f20800000000000000
+      internalID: 3415137041043517696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_119
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 126
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b6de96b7f0d5da0800000000000000
+      internalID: -5954586109581366473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_120
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 65
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40498bd14a1862510800000000000000
+      internalID: 1524048065784747012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_121
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 65
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d2ecf0a69666610800000000000000
+      internalID: 1614093420711521626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_122
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 79
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a542af48f9c2e5a0800000000000000
+      internalID: -6493405644389726814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_123
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 59
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d37c7d65bcc93f0800000000000000
+      internalID: -892615052278415978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_124
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 69
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73add50c10bb00a10800000000000000
+      internalID: 1873703061182863927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_125
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 68
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3578c2c42f5d30800000000000000
+      internalID: 4422293778106497876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_126
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 66
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaac183ebf52a7960800000000000000
+      internalID: 7600429084925086382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_127
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 66
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6ff976107de7410800000000000000
+      internalID: 1476854128857577185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_128
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 81
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e811cb4cca2172460800000000000000
+      internalID: 7216757461128843662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 59
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77618899cc682b450800000000000000
+      internalID: 6103088658347726455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_130
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 65
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b463c1d3c077806c0800000000000000
+      internalID: -4176957759937563061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_131
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 63
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db2c67eb2fc364d0800000000000000
+      internalID: -3142440327501304875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_132
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 65
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987df40d6a120aa90800000000000000
+      internalID: -7304801595251763319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_133
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 64
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760e5fc4ec1b8200800000000000000
+      internalID: 183271978895804022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_134
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 63
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a56de3932bb34610800000000000000
+      internalID: 1604331653754086820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_135
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 78
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1161cc2059fb4abc0800000000000000
+      internalID: -3772679941111671279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_136
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 56
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49089502af23d09c0800000000000000
+      internalID: -3959452447522848620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_137
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 61
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724d9488d06de7df0800000000000000
+      internalID: -180471581438782425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_138
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 62
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2086ab5524b892610800000000000000
+      internalID: 1596960659901933570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_139
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 62
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dcfaa5b39f0bea0800000000000000
+      internalID: -5858909081889157775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_140
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 15
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1198903d0fbf3d130800000000000000
+      internalID: 3590490339695757585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_141
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7da6110496801470800000000000000
+      internalID: 8363332478258556283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_142
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 14
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d916e05f72dc49c70800000000000000
+      internalID: 8977025528755020189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_143
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 14
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b57b7d02727aff0800000000000000
+      internalID: -25008250915693716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_144
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 15
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb4c5258db5024e0800000000000000
+      internalID: -2008504449154397259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_145
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 14
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2856174f95d1260800000000000000
+      internalID: 7069905896450917090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_146
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 14
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc3e378c6e1694e0800000000000000
+      internalID: -1975357935081079560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_147
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 15
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f224488a52cdd3e80800000000000000
+      internalID: -8197153692445294033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_148
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 19
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47becd9e1a6fc670800000000000000
+      internalID: 8561178096383735627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_149
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 15
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791e53c9cc140c5b0800000000000000
+      internalID: -5350204010266238569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_150
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 21
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d525289bef5e0b0800000000000000
+      internalID: -5699869680658653863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_151
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 16
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dab52243436c7c0800000000000000
+      internalID: -4051493416253805308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_152
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 16
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752c7fad1f74199b0800000000000000
+      internalID: -5075196200983477673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_153
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 22
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05ed94b61e4cd540800000000000000
+      internalID: 5033984342919865614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_154
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 10
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93372526e97b99e60800000000000000
+      internalID: 7969602906491089721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_155
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 10
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0773add4d07dbf930800000000000000
+      internalID: 4178169531456960368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: battletoads_156
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 9
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a9629417bedc380800000000000000
+      internalID: -8949238012724209143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

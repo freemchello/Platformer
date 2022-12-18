@@ -9,16 +9,23 @@ namespace Platformer
         [SerializeField] private LevelObjectView _playerView; 
         private AnimationConfig _config;
         private SpriteAnimatorController _playerAnimator;
+        public ParalaxController _paralaxController;
+        public Transform _camera;
+        public Transform _back;
+
 
         private void Awake()
         {
             _config = Resources.Load<AnimationConfig>("SpriteAnimCfg");
             _playerAnimator = new SpriteAnimatorController(_config);
-            _playerAnimator.StartAnimation(_playerView._spriteRenderer, AnimState.Run, true, 10f);
+            _playerAnimator.StartAnimation(_playerView._spriteRenderer, AnimState.Run, true, 7f);
+            _paralaxController = new ParalaxController(_camera, _back);
         }
         void Update()
         {
             _playerAnimator.Update();
+
+            _paralaxController.Update();
         }
     }
 }

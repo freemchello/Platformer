@@ -15,23 +15,24 @@ MonoBehaviour:
   Sequences:
   - Track: 0
     Sprites:
-    - {fileID: 21300000, guid: d692dcc7ef4854bb0b35411f364a7914, type: 3}
+    - {fileID: -1032688751595505922, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: -1032688751595505922, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: -1032688751595505922, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: -1032688751595505922, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: -1032688751595505922, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: -1032688751595505922, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: -1032688751595505922, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: 1946488176830880503, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
   - Track: 1
     Sprites:
-    - {fileID: 21300000, guid: 171a2917b1c194a8bbe0d8ab9d1b0726, type: 3}
-    - {fileID: 21300000, guid: 44a1838446c0648c5bd3d672deb54ca5, type: 3}
-    - {fileID: 21300000, guid: 3387e289e9da1480da48dfe6f115ea88, type: 3}
-    - {fileID: 21300000, guid: b59536c50c7ec4142a7f7708e67bf1cc, type: 3}
-    - {fileID: 21300000, guid: 0f77b1c4511544fd8abdf8e94fd58c6e, type: 3}
-    - {fileID: 21300000, guid: f3da944b9b20a4d029452bd044d0d2d6, type: 3}
-    - {fileID: 21300000, guid: b8033d7c542944bffac3acab100d3786, type: 3}
-    - {fileID: 21300000, guid: e961de1b789684eceaf0b1857fd2a337, type: 3}
-    - {fileID: 21300000, guid: bdb57b26e38a74644b34cc6649f2b889, type: 3}
-    - {fileID: 21300000, guid: a6cb35a2faae045cc9fff08e8a5115fc, type: 3}
-    - {fileID: 21300000, guid: 37fc02ce3825a425e99d5f8c1217798e, type: 3}
-    - {fileID: 21300000, guid: 5dc498fe449bd4de09d95b2607a2c747, type: 3}
+    - {fileID: 6129141500764911240, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: -95163472145038664, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: 4244037651467491890, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: -1838583824524615836, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: 8599138480502792636, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: -95163472145038664, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: 4244037651467491890, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
+    - {fileID: -1838583824524615836, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
   - Track: 2
     Sprites:
-    - {fileID: 21300000, guid: 6a6d2aec31e2f480d931bcb855a4e267, type: 3}
-    - {fileID: 21300000, guid: 2b84b042c476c486cb682f2917b4022b, type: 3}
-    - {fileID: 21300000, guid: 7b6d059d7e79d4be9b48f7c6173df54c, type: 3}
+    - {fileID: 2606272885378128466, guid: 6205326f9b635f74fb6a61c6dbad49e0, type: 3}
