@@ -7,7 +7,7 @@ namespace Platformer
     public class LevelObjectView : MonoBehaviour
     {
         public Transform _transform;
-        public SpriteRenderer _spriteRenderer;
+        public SpriteRenderer _renderer;
         public Collider2D _collider2D;
         public Rigidbody2D _rb2D;
     }
