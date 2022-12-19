@@ -13,16 +13,15 @@ namespace Platformer
         public Transform _camera;
         public Transform _back;
 
-
         private void Awake()
         {
             _playerController = new PlayerController(_playerView);
-            _paralaxController = new ParalaxController(_camera, _back);
+            //_paralaxController = new ParalaxController(_camera, _back);
         }
         void Update()
         {
             _playerController.Update();
-            _paralaxController.Update();
+            //_paralaxController.Update();
         }
     }
 }
