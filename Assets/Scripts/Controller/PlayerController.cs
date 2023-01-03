@@ -1,6 +1,6 @@
-using System.Collections;
-using System.Collections.Generic;
+using System;
 using UnityEngine;
+using UnityEngine.UI;
 
 namespace Platformer
 {
@@ -11,77 +11,89 @@ namespace Platformer
 
         private bool _isMoving;
 
-        private float _walkSpeed = 3f;
+        private int _health = 100;
+
+        private float _walkSpeed = 170f;
         private float _animationSpeed = 7f;
         private float _movingTrashold = 0.1f;
 
         private Vector3 _leftScale = new Vector3(-1, 1, 1);
         private Vector3 _rightScale = new Vector3(1, 1, 1);
 
-        private float _jumpForce = 6f;
+        private float _jumpForce = 11f;
         private float _jumpTrashold = 1f;
-        private float g = -9.8f;
-        private float _groundLevel = -3.5f;
-        private float _yVelosity;
+        private float _yVelocity = 0;
+        private float _xVelocity = 0;
 
         private SpriteAnimatorController _playerAnimator;
+        private ContactPooler _contactPooler;
         private AnimationConfig _config;
         private LevelObjectView _playerView;
         private Transform _playerT;
+        private Rigidbody2D _rb;
 
-        public PlayerController(LevelObjectView player)
+        public PlayerController(InteractiveObjectView player)
         {
             _config = Resources.Load<AnimationConfig>("SpriteAnimCfg");
             _playerAnimator = new SpriteAnimatorController(_config);
             _playerAnimator.StartAnimation(player._renderer, AnimState.Run, true, _animationSpeed);
+            
             _playerView = player;
             _playerT = player._transform;
+            _rb = player._rb2D;
+            _contactPooler = new ContactPooler(_playerView._collider2D);
+
+            player.TakeDamage += TakeBullet;
         }
         private void MoveToward()
         {
-            _playerT.position += Vector3.right * (Time.deltaTime * _walkSpeed * (_xAxisinput < 0 ? -1 : 1));
+            _xVelocity = Time.fixedDeltaTime * _walkSpeed * (_xAxisinput < 0 ? -1 : 1);
+            _rb.velocity = new Vector2(_xVelocity, _yVelocity);
             _playerT.localScale = _xAxisinput < 0 ? _leftScale : _rightScale;
         }
-
-        public bool isGrounded()
+        private void TakeBullet(BulletView bullet)
         {
-            return _playerT.position.y <= _groundLevel && _yVelosity <= 0;
+            _health -= bullet.DamagePoint;
         }
         public void Update()
         {
+            if(_health <= 0)
+            {
+                _health = 0;
+                _playerView._renderer.enabled = false;
+            }
             _playerAnimator.Update();
+            _contactPooler.Update();
             _xAxisinput = Input.GetAxis("Horizontal");
             _isJump = Input.GetAxis("Vertical")>0;
+            _yVelocity = _rb.velocity.y;
             _isMoving = Mathf.Abs(_xAxisinput) > _movingTrashold;
+            _playerAnimator.StartAnimation(_playerView._renderer, _isMoving ? AnimState.Run : AnimState.Idle, true, _animationSpeed);
 
-            if(_isMoving)
+            if (_isMoving)
             {
                 MoveToward();
             }
-
-            if(isGrounded())
+            else
             {
-                _playerAnimator.StartAnimation(_playerView._renderer, _isMoving ? AnimState.Run : AnimState.Idle, true, _animationSpeed);
+                _xVelocity = 0;
+                _rb.velocity = new Vector2(_xVelocity, _rb.velocity.y);
+            }
 
-                if(_isJump&&_yVelosity<=0)
+            if(_contactPooler.IsGrounded)
+            {
+                if(_isJump&&_yVelocity<=_jumpTrashold)
                 {
-                    _yVelosity = _jumpForce;
-                }
-                else if(_yVelosity<0)
-                {
-                    _yVelosity = 0;
-                    _playerT.position = new Vector3(_playerT.position.x, _groundLevel, _playerT.position.z);
-                }
+                    _rb.AddForce(Vector2.up * _jumpForce, ForceMode2D.Impulse);
+                }    
             }
             else
             {
-                if(Mathf.Abs(_yVelosity)>_jumpTrashold)
+                if(Mathf.Abs(_yVelocity)>_jumpTrashold)
                 {
                     _playerAnimator.StartAnimation(_playerView._renderer, AnimState.Jump, true, _animationSpeed);
                     
                 }
-                _yVelosity += g * Time.deltaTime;
-                _playerT.position += Vector3.up * (Time.deltaTime * _yVelosity);
             }
         }
     }

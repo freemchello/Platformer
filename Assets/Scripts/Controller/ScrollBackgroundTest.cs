@@ -11,11 +11,17 @@ namespace Platformer
         private float viewZone = 1;
         private int leftIndex;
         private int rightIndex;
+
+        private float lastCameraX;
+
         public float backgroundSize;
+        public float parallaxSpeed;
 
         void Start()
         {
             cameraTransform = Camera.main.transform;
+            lastCameraX = cameraTransform.position.x;
+
             layers = new Transform[transform.childCount];
             for (int i = 0; i < transform.childCount; i++)
             {
@@ -28,7 +34,12 @@ namespace Platformer
         }
         void Update()
         {
-           if(cameraTransform.position.x < (layers[leftIndex].transform.position.x + viewZone))
+            float deltaX = cameraTransform.position.x - lastCameraX;
+            transform.position += Vector3.right * (deltaX * parallaxSpeed);
+            lastCameraX = cameraTransform.position.x;
+
+
+            if (cameraTransform.position.x < (layers[leftIndex].transform.position.x + viewZone))
             {
                 ScrollLeft();
             }
