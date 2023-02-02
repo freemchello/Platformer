@@ -10,6 +10,8 @@ namespace Platformer
         [SerializeField] private CannonView _cannonView;
         [SerializeField] private CameraView _cameraView;
 
+        [SerializeField] private GeneratorLevelView _generatorLevelView;
+
         private Reference _reference;
         private BonusView _bonusView;
         private int _bonusCount;
@@ -18,6 +20,8 @@ namespace Platformer
         private CannonController _canonController;
         private CameraController _cameraController;
         private BulletsEmitterController _bulletsEmitterController;
+
+        private GeneratorController _generatorController;
 
         [SerializeField] private Button _restartButton;
         private static Button _restartGame;
@@ -40,9 +44,11 @@ namespace Platformer
 
             _playerController = new PlayerController(_playerView);
             _canonController = new CannonController(_cannonView._muzzleTransform, _playerView._transform);
-            _cameraController = new CameraController(_playerView.transform, _cameraView.transform);
+            _cameraController = new CameraController(_playerView, Camera.main.transform);
             _bulletsEmitterController = new BulletsEmitterController(_cannonView._bulletsView, _cannonView._emitterTransform);
 
+            _generatorController = new GeneratorController(_generatorLevelView);
+            _generatorController.Start();
             //_paralaxController = new ParalaxController(_camera, _back);
         }
         void Update()
