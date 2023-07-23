@@ -55,11 +55,11 @@ namespace Platformer
 
             if (_xAxisInput > _tresholtd)
             {
-                offsetY = 4;
+                offsetY = 0;
             }
             else if (_xAxisInput < -_tresholtd)
             {
-                offsetY = -4;
+                offsetY = 0;
             }
             else
             {

@@ -11,6 +11,10 @@ namespace Platformer
         [SerializeField] private CameraView _cameraView;
 
         [SerializeField] private GeneratorLevelView _generatorLevelView;
+        
+        [SerializeField] private QuestView _questView;
+        //[SerializeField] private QuestObjectView _singleQuestItem;
+        
 
         private Reference _reference;
         private BonusView _bonusView;
@@ -22,6 +26,11 @@ namespace Platformer
         private BulletsEmitterController _bulletsEmitterController;
 
         private GeneratorController _generatorController;
+
+
+        private QuestConfiguratorController _questConfigurator;
+        //
+        //private QuestController _questController;
 
         [SerializeField] private Button _restartButton;
         private static Button _restartGame;
@@ -50,6 +59,10 @@ namespace Platformer
             _generatorController = new GeneratorController(_generatorLevelView);
             _generatorController.Start();
             //_paralaxController = new ParalaxController(_camera, _back);
+
+            //
+            _questConfigurator = new QuestConfiguratorController(_questView, _playerView);
+            _questConfigurator.Start();
         }
         void Update()
         {
